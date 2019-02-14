@@ -1,0 +1,23 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "\"lab 2\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFSU-CSC-667-867/lab2-jsamcam.git"
+  },
+  "author": "\"joel Samaniego\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFSU-CSC-667-867/lab2-jsamcam/issues"
+  },
+  "homepage": "https://github.com/SFSU-CSC-667-867/lab2-jsamcam#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4"
+  }
+}
